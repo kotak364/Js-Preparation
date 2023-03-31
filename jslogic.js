@@ -35,3 +35,30 @@
 //     .join("");
 // }
 // console.log(doubleChar("abcd"));
+
+//high and lowest number
+
+let highestNumber;
+function highAndLow(numbers) {
+  const arr = numbers.split(" ");
+  highestNumber = arr[0];
+  lowestNumber = arr[0];
+  arr.forEach((element) => {
+    if (element > highestNumber) {
+      return (highestNumber = element);
+    } else {
+      return highestNumber;
+    }
+  });
+  arr.forEach((element) => {
+    if (element < lowestNumber) {
+      return (lowestNumber = element);
+    } else {
+      return lowestNumber;
+    }
+  });
+  console.log(highestNumber, "highestnumber");
+  console.log(lowestNumber, "lowestNumber");
+}
+
+highAndLow("6 2 3 1 5"); // return "5 1"
