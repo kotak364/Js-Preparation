@@ -1,0 +1,13 @@
+Data types methods
+Object 
+OOP
+async programming in js 
+Event loop
+function
+Js how work behind the scene
+JS basic
+DOM
+Jquery 
+Closure 
+Cookie , local storage and session storage
+API call using axios accepter
