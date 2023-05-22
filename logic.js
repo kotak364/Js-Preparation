@@ -636,12 +636,12 @@
 // }
 
 // 31 Loop through multidimetional array
-var salary = [
-  ["ABC", 24, 18000],
-  ["EFG", 30, 30000],
-  ["IJK", 28, 41000],
-  ["EFG", 31, 28000],
-];
+// var salary = [
+//   ["ABC", 24, 18000],
+//   ["EFG", 30, 30000],
+//   ["IJK", 28, 41000],
+//   ["EFG", 31, 28000],
+// ];
 
 // function findSalary(salary) {
 //   console.log(salary[0][0]);
@@ -664,3 +664,23 @@ var salary = [
 // }
 
 // findAllSalary(salary);
+
+// 33 Search list
+
+// const name = ["jaymeen", "maulik", "rushi", "shivam"];
+// const search = "mau";
+
+// function serachResult(name, search) {
+//   const searchNameResult = name.filter((item) =>
+//     search === ""
+//       ? item
+//       : item.toLowerCase().includes(search.toLowerCase())
+//   );
+
+//   return searchNameResult;
+// }
+
+// console.log(serachResult(name, search));
+
+
+
