@@ -1,0 +1,49 @@
+//1
+let var and const - Completed
+hositing - Completed
+closures - Completed 
+shallow copy and deep copy - Completed 
+//3  and //4
+asyc task and practice promise, callback and all 
+why we don't use callBack instead of promise  - wed/sunday
+//5
+String - Completed 
+//6
+Array - wed/sunday
+diff between forEach and map - Completed
+//2 
+es 6 all features and practice - In Progress
+daily one
+setTimout and setTimeInterval - Completed
+Object assign in const value change or not - Completed
+strict mode - completed
+Object.assign
+object oriented programming  - every day daily practice
+function - Sunday 
+Basic in js - sat 
+Immediatly invoked function - Complete
+why JS is single threaded? - Completed
+call,apply and bind methods - Completed 
+How to compare object in js? - Completed  
+TDZ - done
+
+//js question
+getter aand setter
+What is asyc programming ?
+What is promise?
+why we use Promise instead of callBack?
+What is callBack Hell?
+event loop
+console.log promise setTimout console.log
+
+//localstorage hide
+//jwt
+//google speed checker
+//server side renering 
+
+
+//--------------- logic ------------------
+//sorting with one array 
+////3 1 to 100, -1 to 100
+//Prime number
+//multi dimentional array

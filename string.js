@@ -105,9 +105,9 @@
 
 //13 substr
 // The substr() method extracts a part of a string.
-let text = "Hello world!";
-let result = text.substr(1, 4);
-console.log(result, "result");
+// let text = "Hello world!";
+// let result = text.substr(1, 4);
+// console.log(result, "result");
 //slice,//split and substr and substring difff
 
 //slice
@@ -133,7 +133,7 @@ console.log(result, "result");
 // substring() is similar to slice().
 // The difference is that start and end values less than 0 are treated as 0 in substring().
 // let text = "Hello world!";
-// let result1 = text.substring(0, 5);
+// let result1 = text.substring(0, 2);
 // let result2 = text.substring(3);
 // let result3 = text.substring(1, 1); //no result found
 // let result4 = text.substring(1, 0);
@@ -171,7 +171,7 @@ console.log(result, "result");
 //main diff
 //sub str and substring both are similar to slice method
 //but diff is that in substring that start and end values less than 0 are treated as 0 in substring().
-//The difference is that the second parameter specifies the length of the extracted part in substring().
+//The difference is that the second parameter specifies the length of the extracted part in substr().
 
 //Split()
 // A string can be converted to an array with the split() method:
@@ -200,10 +200,3 @@ console.log(result, "result");
 // let text = "5";
 // let padded = text.padEnd(4, "x");
 // console.log(padded, "text");
-
-
-
-
-
-
-

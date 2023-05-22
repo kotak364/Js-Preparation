@@ -1,6 +1,5 @@
 //shal
 
-
 //1.using spread operator
 // const a = [1,2,3]
 // let b = [...a]
@@ -28,3 +27,21 @@
 // b[2][0] = 5;
 // console.log(b, "b");
 // console.log(a, "a");
+
+//exmple
+
+// const a = [1, 2, 3];
+// const b = a;
+// b[0] = 2;
+// console.log(a)
+// console.log(b)
+
+//using spread map and json.parse
+// const a = [1, 2, 3];
+// const b = [...a];
+// const b = JSON.parse(JSON.stringify(a));
+// const b = a.map((ele) => ele);
+// const b = a.slice(0);
+// b[0] = 2;
+// console.log(a);
+// console.log(b);
